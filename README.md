@@ -1,2 +1,32 @@
-# todo-app
-A simple and responsive ToDo app built with React. Users can add, delete, and mark tasks as complete. The app uses localStorage for saving tasks and provides a clean, user-friendly interface. Ideal for managing daily to-do lists efficiently with smooth performance.
+# 📝 React ToDo App
+
+A simple and responsive ToDo application built with **React** to manage daily tasks effectively. Users can add, delete, and mark tasks as complete. Tasks are saved in the browser using `localStorage`.
+
+---
+
+## 🚀 Features
+
+- ✅ Add new tasks
+- ❌ Delete tasks
+- 📌 Mark tasks as completed/incomplete
+- 💾 Save tasks with `localStorage`
+- 📱 Responsive UI (mobile + desktop)
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React (with Hooks)
+- **Styling**: CSS   
+- **State Management**: `useState`  
+- **Storage**: `localStorage`
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/sagar7089/todo-app.git
+cd todo-app
+npm install
+npm start
